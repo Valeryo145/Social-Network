@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "https://github.com/Valeryo145/Social-Network"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/"
+    "url": "https://github.com/Valeryo145/Social-Network"
   },
-  "homepage": "https://github.com/",
+  "homepage": "https://github.com/Valeryo145/Social-Network",
   "dependencies": {
     "express": "^4.18.2",
     "moment": "^2.29.4",
