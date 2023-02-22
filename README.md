@@ -28,5 +28,11 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## Mockup
 ![18-nosql-homework-demo-01](https://user-images.githubusercontent.com/110436164/220541472-a5e0f6e4-487f-4070-92b3-70e97b8f78e8.gif)
 
-## GitHub Page
+-ScreenShot
+![CREAT ENEW USER SCREENSHOT](https://user-images.githubusercontent.com/110436164/220543667-0c28a5a8-ac62-450f-ab7d-39af32b8a5b2.png)
+
+
+## GitHub Page & Demo
 [GitHub](https://github.com/Valeryo145/Social-Network/)
+
+[Demo Video]()
