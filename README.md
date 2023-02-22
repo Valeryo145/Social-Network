@@ -2,6 +2,10 @@
 
 ## Description
 
+This app is demonstrating a back to a "social media" sort of platform. The user can share their thoughts by posting and viewing. Also, there able to react to thoughts.
+You can review all thoughts and updates of users posted by the ID. In addition, deleting users’ thoughts, adding friends to users list and removing them can be done vice- versa. All created make a free network to add and remove personal sharing and people in list.  
+
+
 ## Acceptance Criteria
 ```md
 GIVEN a social network API
@@ -24,5 +28,5 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## Mockup
 ![18-nosql-homework-demo-01](https://user-images.githubusercontent.com/110436164/220541472-a5e0f6e4-487f-4070-92b3-70e97b8f78e8.gif)
 
-## GitHub
+## GitHub Page
 [GitHub](https://github.com/Valeryo145/Social-Network/)
