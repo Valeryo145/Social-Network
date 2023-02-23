@@ -35,4 +35,4 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## GitHub Page & Demo
 [GitHub](https://github.com/Valeryo145/Social-Network/)
 
-[Demo Video](https://drive.google.com/file/d/1SIoxkcxqdEvZod-FkG1xTrGakb9ruYhL/view?usp=sharing)
+[Demo Video]()
